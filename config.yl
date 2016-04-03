@@ -1,0 +1,15 @@
+# This configuration file is to be used
+# to store basic values such as database
+# host or port
+# Syntax is inspired from YAML and explained
+# here:
+#    - Line starrting with # are ignored
+#    - Parameters are like 'key: value'
+#    - string values denoted with single or double quotes
+#    - integers are handled
+#    - floating numbers have to contain a '.'
+# Here is a config example:
+
+douglas: 'adams'
+universelifeandeverything: 42
+floatinganswer: 42.0
