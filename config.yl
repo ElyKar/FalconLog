@@ -3,7 +3,7 @@
 # host or port
 # Syntax is inspired from YAML and explained
 # here:
-#    - Line starrting with # are ignored
+#    - Line starting with # are ignored
 #    - Parameters are like 'key: value'
 #    - string values denoted with single or double quotes
 #    - integers are handled
